@@ -79,7 +79,7 @@ int main(int argc, char *argv[]) {
 ```
 ## OUTPUT
 
-![Screenshot from 2025-05-07 16-18-12](https://github.com/user-attachments/assets/7b0f8589-2060-43cb-bc49-400292bc48bc)
+![Screenshot from 2025-05-07 16-15-54](https://github.com/user-attachments/assets/f2ab0e4b-0b38-46fd-92b6-a76f2f203275)
 
 
 
